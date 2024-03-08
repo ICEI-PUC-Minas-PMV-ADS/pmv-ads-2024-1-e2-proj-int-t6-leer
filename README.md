@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# LEER
 
-`CURSO`
+`CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`DISCIPLINA: Desenvolvimento de uma Aplicação Interativa - Turma 06 - 2024/1`
 
-`SEMESTRE`
+`SEMESTRE: 2° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nossa aplicação busca oferecer apoio à organizaçāo dos estudos, permitindo que os usuários criem cronogramas personalizados, definam metas claras e acompanhem seu progresso de maneira objetiva e eficaz.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Andre Lucas Corrêa de Andrade e Florio
+* Caio Lelis Penido
+* Mariana Sayuri Tomioka
+* Robert Alexander Rodrigues
+* Simony Larissa Bueno
+* Vitoria Veronezzi Pilon
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
