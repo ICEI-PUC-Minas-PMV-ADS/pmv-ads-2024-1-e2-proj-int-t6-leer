@@ -67,13 +67,13 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 As ferramentas empregadas no projeto são:
 
-| AMBIENTE                            | PLATAFORMA                         |
-|-------------------------------------|------------------------------------|
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO |
+|-------------------------------------|------------------------------------|----------------|
 | Editor de código                    | Visual Studio Code                 | 
-| Ferramenta de comunicação           | Whatsapp                           |
-| Repositório de código fonte         | GitHub                             |
+| Ferramenta de comunicação           | Whatsapp                           |https://www.whatsapp.com/|
+| Repositório de código fonte         | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t6-leer|
 | Documentos do projeto               | GitHub                             |
-| Gerenciamento do Projeto            | GitHub Projects                    | 
+| Gerenciamento do Projeto            | GitHub Projects                    |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/905|
 | Hospedagem                          | GitHub Pages                       | 
 | Ferramentas de desenho de tela      |                                    | 
 
