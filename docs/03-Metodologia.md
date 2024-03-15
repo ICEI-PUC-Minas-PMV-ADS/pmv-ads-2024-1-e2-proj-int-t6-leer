@@ -55,6 +55,13 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Test: São as tarefas que estão finalizadas e prontas para serem testadas, se elas passarem no teste podem ir para a última coluna (Done), se reporvar volta para primeira coluna (Todo)
 - Done: São as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário.
 
+  O quadro do Kanban do grupo no Github Projects está disponível através do link (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/905/views/1).
+  
+  <figure>
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t6-leer/blob/2e9b8562ae528099906ccfcd998eba1431169b4f/docs/img/Kanban%20.png" <figcaption>Figura - Tela do Kaban utilizado pelo grupo </figcaption>
+  </figure>
+  
+
 
 ### Ferramentas
 
@@ -76,8 +83,3 @@ sistema de versão. As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
-
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Github](https://github.com/)
-> - [Whatsapp](https://www.whatsapp.com/)
-> - [Visual Studio Code](https://code.visualstudio.com/) 
