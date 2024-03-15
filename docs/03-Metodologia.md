@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 ## Controle de Versão
 
@@ -39,12 +39,13 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+-Scrum Master: Vitoria Veronezzi Pilon.
+-Product Owner: 
+-Equipe de Desenvolvimento: Andre Florio; Caio Lelis Penido; Mariana Sayuri Tomioka; Robert Alexandre Rodrigues; Simony Larissa Bueno; Vitoria Veronezzi Pilon.
+-Equipe de Design: Mariana Sayuri. 
+-Equipe de teste: Andre Florio; Vitoria Veronezzi Pilon. 
 
 ### Processo
 
@@ -60,9 +61,16 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+| AMBIENTE                            | PLATAFORMA                         |
+|-------------------------------------|------------------------------------|
+| Editor de código                    | Visual Studio Code                 | 
+| Ferramenta de comunicação           | Whatsapp                           |
+| Repositório de código fonte         | GitHub                             |
+| Documentos do projeto               | GitHub                             |
+| Gerenciamento do Projeto            | GitHub Projects                    | 
+| Hospedagem                          | GitHub Pages                       | 
+| Ferramentas de desenho de tela      | Figma                              | 
+
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
