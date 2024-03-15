@@ -41,11 +41,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
--Scrum Master: Vitoria Veronezzi Pilon.
--Product Owner: 
--Equipe de Desenvolvimento: Andre Florio; Caio Lelis Penido; Mariana Sayuri Tomioka; Robert Alexandre Rodrigues; Simony Larissa Bueno; Vitoria Veronezzi Pilon.
--Equipe de Design: Mariana Sayuri. 
--Equipe de teste: Andre Florio; Vitoria Veronezzi Pilon. 
+- Scrum Master: Vitoria Veronezzi Pilon.
+- Product Owner: 
+- Equipe de Desenvolvimento: Andre Florio; Caio Lelis Penido; Mariana Sayuri Tomioka; Robert Alexandre Rodrigues; Simony Larissa Bueno; Vitoria Veronezzi Pilon.
+- Equipe de Design: Mariana Sayuri. 
+- Equipe de teste: Andre Florio; Vitoria Veronezzi Pilon. 
 
 ### Processo
 
