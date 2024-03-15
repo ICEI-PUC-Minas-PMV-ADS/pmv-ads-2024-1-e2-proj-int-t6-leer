@@ -55,12 +55,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Test: São as tarefas que estão finalizadas e prontas para serem testadas, se elas passarem no teste podem ir para a última coluna (Done), se reporvar volta para primeira coluna (Todo)
 - Done: São as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário.
 
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
 
@@ -74,7 +68,7 @@ As ferramentas empregadas no projeto são:
 | Documentos do projeto               | GitHub                             |
 | Gerenciamento do Projeto            | GitHub Projects                    | 
 | Hospedagem                          | GitHub Pages                       | 
-| Ferramentas de desenho de tela      | Figma                              | 
+| Ferramentas de desenho de tela      |                                    | 
 
 
 O editor de código foi escolhido porque ele possui uma integração com o
@@ -83,8 +77,7 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
+> - [Whatsapp](https://www.whatsapp.com/)
+> - [Visual Studio Code](https://code.visualstudio.com/) 
