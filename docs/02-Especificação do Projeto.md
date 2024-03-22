@@ -1,26 +1,41 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição precisa do problema e os aspectos mais importantes a serem abordados neste projeto foram estabelecidos após a participação ativa dos usuários em um processo imersivo conduzido pela equipe. Isso incluiu a observação dos usuários em seu ambiente natural e a realização de pesquisas. Os insights obtidos durante esse processo foram organizados em personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Gabriela - 21 anos</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Gabriela tem 21 anos e é natural de São Paulo, mas mudou-se para Campinas para cursar Engenharia Civil. Ela está se adaptando à vida universitária, tentando equilibrar seus estudos com suas atividades extracurriculares e sua vida social. Gabriela é muito dedicada aos estudos e busca maneiras de melhorar sua organização para alcançar seus objetivos acadêmicos.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>A maior dificuldade de Gabriela é gerenciar seu tempo de forma eficiente. Ela precisa acompanhar os horários das aulas, prazos de entregas de trabalhos e projetos, além de encontrar tempo para atividades como esportes, eventos universitários e trabalhos voluntários. Gabriela sente que uma ferramenta que a ajude a planejar e priorizar suas tarefas seria extremamente útil para melhorar sua produtividade e reduzir o estresse do dia a dia.</td>
+</tr>
+</tbody>
+</table>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Marcos - 30 anos</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Marcos tem 30 anos e é natural de Porto Alegre. Ele está cursando uma pós-graduação em Administração em São Paulo e mora sozinho em um apartamento. Marcos trabalha em período integral em uma empresa de consultoria e está sempre buscando formas de aprimorar seus conhecimentos e habilidades profissionais.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> O maior desafio de Marcos é conciliar sua rotina intensa de trabalho com os estudos da pós-graduação. Ele precisa gerenciar seus horários de aula, prazos de entrega de trabalhos e projetos, além de encontrar tempo para se dedicar ao networking e participar de eventos relacionados à sua área de atuação. Marcos também precisa cuidar das tarefas domésticas em seu apartamento e encontrar momentos para relaxar e recarregar as energias. Ele acredita que uma ferramenta digital que o ajude a organizar sua agenda, lembrar de compromissos importantes e priorizar suas tarefas seria fundamental para aumentar sua produtividade e alcançar seus objetivos acadêmicos e profissionais.</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
